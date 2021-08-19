@@ -7,7 +7,7 @@ This is the code repository for [Up and Running with Affinity Designer](https://
 **A practical, easy-to-follow guide to getting up to speed with Affinity Designer**
 
 ## What is this book about?
-Affinity Designer is a relatively new creative application and, in a reasonably short time, has quickly become a powerhouse design and illustration application. Affinity Designer, along with Affinity Photo and Affinity Publisher, is part of a suite of award-winning creative software applications developed by Serif Europe. Built on the latest technologies that make it fast and smooth, Affinity Designer is quickly becoming the go-to professional creative alternative application for vector drawing and pixel-based painting.
+Affinity Designer is a relatively new creative application and, in a reasonably short time, it has quickly become a powerhouse design and illustration application. Affinity Designer, along with Affinity Photo and Affinity Publisher, is part of a suite of award-winning creative software applications developed by Serif Europe. Built on the latest technologies, which make it fast and smooth, Affinity Designer is quickly becoming the go-to professional creative application for vector drawing and pixel-based painting.
 
 This book covers the following exciting features: 
 * Explore the interface and the unique UX characteristics of Affinity Designer
