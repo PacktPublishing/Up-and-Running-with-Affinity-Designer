@@ -30,7 +30,7 @@ All of the sketch images are organized into folders. For example, Chapter11.
 
 This Affinity Designer book is for graphic designers, artists, illustrators, and hobbyists. Anyone curious about Affinity Designer's unique toolset and vector and pixel workflows or looking for cost-effective alternatives to the Adobe suite will find this book useful. Experience in working with other similar tools will be helpful, but not necessary.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-13).
+With the following software and hardware list you can run all files present in the book (Chapter 1-13).
 
 ### Software and Hardware List
 
