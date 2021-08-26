@@ -1,6 +1,6 @@
 # Up and Running with Affinity Designer
 
-<a href="https://www.packtpub.com/product/up-and-running-with-affinity-designer/9781801079068?utm_source=github&utm_medium=repository&utm_campaign=9781801079068"><img src="image url" alt="Up and Running with Affinity Designer" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/up-and-running-with-affinity-designer/9781801079068?utm_source=github&utm_medium=repository&utm_campaign=9781801079068"><img src="https://m.media-amazon.com/images/I/51kFDTSnkpL._SX260_.jpg" alt="Up and Running with Affinity Designer" height="256px" align="right"></a>
 
 This is the code repository for [Up and Running with Affinity Designer](https://www.packtpub.com/product/up-and-running-with-affinity-designer/9781801079068?utm_source=github&utm_medium=repository&utm_campaign=9781801079068), published by Packt.
 
