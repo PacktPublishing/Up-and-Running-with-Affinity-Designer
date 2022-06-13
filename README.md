@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B17020?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Up and Running with Affinity Designer
 
 <a href="https://www.packtpub.com/product/up-and-running-with-affinity-designer/9781801079068?utm_source=github&utm_medium=repository&utm_campaign=9781801079068"><img src="https://m.media-amazon.com/images/I/51kFDTSnkpL._SX260_.jpg" alt="Up and Running with Affinity Designer" height="256px" align="right"></a>
